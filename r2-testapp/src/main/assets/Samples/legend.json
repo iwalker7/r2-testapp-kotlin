@@ -1,0 +1,87 @@
+{
+  "@context": "https://readium.org/webpub-manifest/context.jsonld",
+  "metadata": {
+    "@type": "http://schema.org/Audiobook",
+    "identifier": "https://librivox.org/flatland-a-romance-of-many-dimensions-by-edwin-abbott-abbott/",
+    "title": "NLP Demo",
+    "subtitle": "Mongolian NLP Demo",
+    "author": {"name": "Itgel", "sortAs": "Itgel, iWalker"},
+    "narrator": "NLP",
+    "language": "mn",
+    "description": "Монгол хэл боловсруулалтын үзүүлэн хуудас",
+    "publisher": "Itgel",
+    "subject": ["General Fiction", "Satire", "Science Fiction"],
+    "modified": "2021-12-01T19:32:18Z",
+    "published": "2021-12-02",
+    "duration": 4,
+    "abridged": false,
+    "schema:license": "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+
+  "links": [
+    {"rel": "cover", "href": "http://www.urlag.mn/Admin/uploaded/150993478259ffc6beef8d68493362522017-11-07-13-59[www.urlag.mn].jpg", "type": "image/jpeg", "height": 300, "width": 300}
+  ],
+
+  "readingOrder": [
+    {"href": "https://archive.org/download/hatanbuuvei/speech_full.mp3", "type": "audio/mp3", "bitrate": 128, "duration": 231, "title": "Аралдай тайж"},
+    {"href": "https://archive.org/download/hatanbuuvei/speech_1.mp3", "type": "audio/mp3", "bitrate": 128, "duration": 22, "title": "Аралдай тайж"},
+    {"href": "https://archive.org/download/hatanbuuvei/speech_2.mp3", "type": "audio/mp3", "bitrate": 128, "duration": 23, "title": "Аралдай тайж - 2"},
+    {"href": "https://archive.org/download/hatanbuuvei/speech_3.mp3", "type": "audio/mp3", "bitrate": 128, "duration": 23, "title": "Аралдай тайж - 3"},
+    {"href": "https://archive.org/download/hatanbuuvei/speech_4.mp3", "type": "audio/mp3", "bitrate": 128, "duration": 24, "title": "Аралдай тайж - 4"},
+    {"href": "https://archive.org/download/hatanbuuvei/speech_5.mp3", "type": "audio/mp3", "bitrate": 128, "duration": 24, "title": "Аралдай тайж - 5"},
+    {"href": "https://archive.org/download/hatanbuuvei/speech_6.mp3", "type": "audio/mp3", "bitrate": 128, "duration": 24, "title": "Аралдай тайж - 6"},
+    {"href": "https://archive.org/download/hatanbuuvei/speech_7.mp3", "type": "audio/mp3", "bitrate": 128, "duration": 20, "title": "Аралдай тайж - 7"},
+    {"href": "https://archive.org/download/hatanbuuvei/speech_8.mp3", "type": "audio/mp3", "bitrate": 128, "duration": 22, "title": "Аралдай тайж - 8"},
+    {"href": "https://archive.org/download/hatanbuuvei/speech_9.mp3", "type": "audio/mp3", "bitrate": 128, "duration": 25, "title": "Аралдай тайж - 9"},
+    {"href": "https://archive.org/download/hatanbuuvei/speech_10.mp3", "type": "audio/mp3", "bitrate": 128, "duration": 25, "title": "Аралдай тайж - 10"}
+  ],
+
+  "toc": [
+    {
+      "href": "https://archive.org/download/hatanbuuvei/speech_full.mp3",
+      "title": "Аралдай тайж",
+      "children": [
+        {
+          "href": "https://archive.org/download/hatanbuuvei/speech_1.mp3",
+          "title": "Хэсэг - 1"
+        },
+        {
+          "href": "https://archive.org/download/hatanbuuvei/speech_2.mp3",
+          "title": "Хэсэг - 2"
+        },
+        {
+          "href": "https://archive.org/download/hatanbuuvei/speech_3.mp3",
+          "title": "Хэсэг - 3"
+        },
+        {
+          "href": "https://archive.org/download/hatanbuuvei/speech_4.mp3",
+          "title": "Хэсэг - 4"
+        },
+        {
+          "href": "https://archive.org/download/hatanbuuvei/speech_5.mp3",
+          "title": "Хэсэг - 5"
+        },
+        {
+          "href": "https://archive.org/download/hatanbuuvei/speech_6.mp3",
+          "title": "Хэсэг - 6"
+        },
+        {
+          "href": "https://archive.org/download/hatanbuuvei/speech_7.mp3",
+          "title": "Хэсэг - 7"
+        },
+        {
+          "href": "https://archive.org/download/hatanbuuvei/speech_8.mp3",
+          "title": "Хэсэг - 8"
+        },
+        {
+          "href": "https://archive.org/download/hatanbuuvei/speech_9.mp3",
+          "title": "Хэсэг - 9"
+        },
+        {
+          "href": "https://archive.org/download/hatanbuuvei/speech_10.mp3",
+          "title": "Хэсэг - 10"
+        }
+      ]
+    }
+  ]
+}
